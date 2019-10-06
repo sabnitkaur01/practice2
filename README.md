@@ -1,6 +1,6 @@
 ![THE MCU](avengers.jpg)
 
-#THE MARVEL CINEMATIC UNIVERSE
+# THE MARVEL CINEMATIC UNIVERSE
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -9,13 +9,13 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-##GETTING STARTED 
+## GETTING STARTED 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 
 
-###PREREQUISITES
+### PREREQUISITES
 
 Just an editor and git!
 
